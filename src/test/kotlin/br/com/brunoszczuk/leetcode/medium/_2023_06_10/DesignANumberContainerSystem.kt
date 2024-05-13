@@ -1,8 +1,7 @@
-package br.com.brunoszczuk.leetcode.medium.a20230610
+package br.com.brunoszczuk.leetcode.medium._2023_06_10
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import java.util.TreeMap
 import java.util.TreeSet
 import kotlin.collections.HashMap
 

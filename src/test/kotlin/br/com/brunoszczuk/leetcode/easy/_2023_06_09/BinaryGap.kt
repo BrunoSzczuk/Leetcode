@@ -1,4 +1,4 @@
-package br.com.brunoszczuk.leetcode.easy.a20230609
+package br.com.brunoszczuk.leetcode.easy._2023_06_09
 
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.CsvSource

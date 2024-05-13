@@ -1,7 +1,6 @@
-package br.com.brunoszczuk.leetcode.medium.a20240511
+package br.com.brunoszczuk.leetcode.medium._2024_05_11
 
 import org.junit.jupiter.api.Test
-import kotlin.math.pow
 
 class `Maximize Happiness of Selected Children` {
 

@@ -1,4 +1,4 @@
-package br.com.brunoszczuk.leetcode.medium.a20230607
+package br.com.brunoszczuk.leetcode.medium._2023_06_07
 
 import org.junit.jupiter.api.Assertions.assertTrue
 import org.junit.jupiter.params.ParameterizedTest

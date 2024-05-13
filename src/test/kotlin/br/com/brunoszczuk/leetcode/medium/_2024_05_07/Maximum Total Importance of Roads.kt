@@ -1,4 +1,4 @@
-package br.com.brunoszczuk.leetcode.medium.a20240507
+package br.com.brunoszczuk.leetcode.medium._2024_05_07
 
 import org.junit.jupiter.api.Test
 
